@@ -1,4 +1,4 @@
-package com.zhuehengan;
+package com.zhuhengan;
 
 public class Calculator {
     public double add(double a, double b) {
