@@ -1,4 +1,4 @@
-package com.zhuehngan;
+package com.zhuehengan;
 
 
 import java.util.Scanner;
